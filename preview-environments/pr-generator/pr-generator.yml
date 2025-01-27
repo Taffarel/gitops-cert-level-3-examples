@@ -12,7 +12,7 @@ spec:
         owner: Taffarel
         repo: gitops-cert-level-3-examples
         labels:
-          - preview
+        - preview
       requeueAfterSeconds: 180
   template:
     metadata:
